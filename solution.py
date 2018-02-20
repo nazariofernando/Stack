@@ -21,9 +21,6 @@ for i in range(0, numOfCom):
         j -= 1
         k += 1
 
-print stack
-print poped
-
 fo = open('./output.txt', 'w')
 
 for element in poped:
